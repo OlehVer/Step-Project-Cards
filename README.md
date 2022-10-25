@@ -1,26 +1,33 @@
 # Step Project "Cards"
 
 # Description
-Step project after module Advanced JavaScript.
+Step project after module Advanced JavaScript (Dan.it learning program) 
 
-The task was to implement a web-page where the person could create cards describing planned visits to doctors.
+The task was to implement a web page where the person could create cards describing planned visits to doctors.
 We had to apply ES6 classes, fetch and ES module structure.
-Before log in you have to register here https://ajax.test-danit.com/front-pages/cards-register.html
+Before logging in you have to register here https://ajax.test-danit.com/front-pages/cards-register.html
+Or you can use these: 
+*Log:* **test111@mail.com** 
+*Pass:* **123**
 
-Editing of visit also changes status from done to open. 
+After authorization, you should create some new visits to different doctors.
+You can add new, edit or delete visits.
+Try to filter visits like you want.
+Visits are also draggable.
+Editing the visit also changes its status from done to open. 
 
-## Used technologies
+#### Used technologies
 - HTML 5
 - CSS 3
-- Vanilla JS 
+- Vanilla JS (ES6, Fetch, real API)
 - Bootstrap 5
 - Interactjs library (drag & drop)
 
 
-## Team
-Oleh Verbynskyi
-Denys Herashchenko
-Victor Tyslenko
+#### Team
+* Oleh Verbynskyi (https://github.com/OlehVer, https://gitlab.com/trewa10)
+* Denys Herashchenko (https://gitlab.com/hdsplot)
+* Victor Tyslenko (https://gitlab.com/VictorTyslenko)
 
 ## Tasks
 
@@ -34,6 +41,7 @@ Oleh Verbynskyi:
 - Classes and methods for Modal windows
 - Modal windows design 
 - Forms validation
+- Final logic for filtering
 
 Denys Herashchenko:
 - Classes and methods for Cards
@@ -43,6 +51,8 @@ Denys Herashchenko:
 
 Victor Tyslenko:
 - Basic general design
-- Serch/filter functions
+- Search/filter functions
 - Filter form design
 
+## Web page
+https://olehver.github.io/Step-Project-Cards/
