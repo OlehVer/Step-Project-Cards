@@ -24,7 +24,7 @@ margin-top: 50px;
     border: none;
 }
 
-i {
+i, svg {
     pointer-events: none;
 }
 
